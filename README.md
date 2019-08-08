@@ -1,16 +1,13 @@
-# news
+# My Hacker News App
 
-A new Flutter project.
+This is a mobile application made using the Flutter Framework.
+Basically, this app shows a list of topics and comments within.
+This app fetches the data from Hacker New API (https://github.com/HackerNews/API) and utilizes SQFlite packages to create a Cache for storing data in the mobile phone.
+It also has a capability to refresh the topics.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to download the APK?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+You can install this application by downloading the APK inside the News-App/build/app/outputs/apk/ folder.
+You can do so by pasting this link on your browser:
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JerylDEv/News-App/blob/master/build/app/outputs/apk/app.apk
