@@ -6,6 +6,6 @@ This app fetches the data from Hacker New API (https://github.com/HackerNews/API
 It also has a capability to refresh the topics.
 
 
-## How to download the APK
+## How to download the APK?
 
 You can install this application by downloading the APK inside the News-App/build/app/outputs/apk/ folder.
