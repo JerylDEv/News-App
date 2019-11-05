@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Git_Repos\\Dart Projects\\Flutter\\news\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\accessadmin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\32d3294b61bb56496a57b3c68c416c27\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
